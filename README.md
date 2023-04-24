@@ -24,7 +24,7 @@ I'm an Indian high school student , with a passion towards AI and robotics<br><b
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=dame-cell&label=Profile%20Views&color=0&icon=1&pretty=false" />
 </a>
-[![](https://visitcount.itsvg.in/api?id=dame-cell&label=Profile%20Views&color=0&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
