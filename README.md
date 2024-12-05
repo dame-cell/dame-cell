@@ -8,6 +8,6 @@
 Me:
 - Love robotics
 - Very into Multi-modality models
-- Love reading fantasy novels (current fav -> <i>Lord of Mysteries</i>
-- Love video games as well (current fav -> <i>team fortress 2 </i>)
+- Love reading fantasy novels
+- Love video games as well (current fav -> <i>path of exile</i>)
 
